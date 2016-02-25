@@ -21,3 +21,16 @@ By the end of the course, you’ll build two simple (but powerful) apps that you
 | Lesson 2: Making an App Interactive | Harness the power of Java to create an interactive coffee ordering app! You’ll start by writing simple statements in Java that add interactivity to your app. You’ll then incorporate buttons to trigger events. You’ll finally use a fundamental concept in programming, a variable, to keep track of all the coffee drinks ordered. |
 | Practice Set 2 | Reinforce the skills learned in Lesson 2 by creating a basketball score tracker. The first part of the practice set will solidify how to write and use variables before creating your basketball score tracker app. |
 | Lesson 3: Work with the Android Framework and Control Flow | Take a deeper dive into the Android Framework to complete the Just Java coffee ordering app! You’ll see in more detail how Android works behind the scenes and take your first steps towards learning Object Oriented Programming. You’ll add the ability to add toppings to your coffee, and show a detailed order summary when the customer purchases a coffee. |
+
+d Framework to complete the Just Java coffee ordering app! You’ll see in more detail how Android works behind the scenes and take your first steps towards learning Object Oriented Programming. You’ll add the ability to add toppings to your coffee, and show a detailed order summary when the customer purchases a coffee. |
+
+#### Screenshots
+
+![screenshot1](screenshot1.png)
+
+![screenshot2](screenshot2.png)
+
+![screenshot3](screenshot3.png)
+
+
+
